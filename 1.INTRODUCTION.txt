@@ -1,0 +1,15 @@
+PROJECT NAME- IIoT ATTACK DETECTION
+
+BY:
+Name- Bharatdeep Singh
+URN:2104080
+Name- Divneet Kaur
+URN:2104093
+
+DESCRIPTION:
+
+This project contains two section
+
+The first section simply detect that whether attack is there or not . We used different models and chose XGBoost to be the best model for this purpose as it showed best accuracy
+
+The second section identifies the type of attack also. Again we used different models for this purpose and found XGBoost to be the best model for this purpose. Not only this with help of Hybrid model we improved accuracy of Naive Bayes also
